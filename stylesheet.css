@@ -1,0 +1,167 @@
+* {
+  background-color: white;
+}
+
+.header {
+  background-image: url(Nudie-Cruiser-Skateboard-3\ copy.jpg);
+  height: 500px;
+  padding-top: 70px;
+  color: black;
+  font-size: 65px;
+  text-align: center;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+}
+.navbar {
+  overflow: hidden;
+  background-color: black;
+  position: fixed;
+  top: 0;
+  width: 100%;
+}
+
+.navbar a {
+  background: black;
+  color: cadetblue;
+  float: left;
+  display: block;
+  color: whitesmoke;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  list-style-type: none;
+  font-size: 25px;
+}
+
+.navbar a:hover {
+  background: yellowgreen;
+  color: gray;
+}
+
+.navbar b {
+  background: black;
+  color: cadetblue;
+  float: right;
+  display: block;
+  color: whitesmoke;
+  text-align: left;
+  padding: 14px 16px;
+  text-decoration: none;
+  list-style-type: none;
+  font-size: 25px;
+}
+
+.navbar b:hover {
+  background: yellowgreen;
+  color: gray;
+}
+
+.image1 {
+  border-radius: 10%;
+  width: 50%;
+  height: 30%;
+  padding: 5rem;
+  margin: 10px;
+}
+.image1 {
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+  max-width: 500px;
+  margin: auto;
+  text-align: center;
+  font-family: arial;
+  margin: 10px;
+}
+
+.price {
+  color: grey;
+  font-size: 22px;
+}
+
+.card button {
+  border: none;
+  outline: 0;
+  padding: 12px;
+  color: rgb(49, 112, 166);
+  background-color: #000;
+  text-align: center;
+  cursor: pointer;
+  width: 100%;
+  font-size: 18px;
+}
+
+.card button:hover {
+  opacity: 0.7;
+}
+
+.image2 {
+  border-radius: 10%;
+  width: 50%;
+  height: 30%;
+  padding: 5rem;
+  margin: 10px;
+}
+.image2 {
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+  max-width: 500px;
+  margin: auto;
+  text-align: center;
+  font-family: arial;
+  margin: 10px;
+}
+
+.price {
+  color: grey;
+  font-size: 22px;
+}
+
+.card button {
+  border: none;
+  outline: 0;
+  padding: 12px;
+  color: white;
+  background-color: #000;
+  text-align: center;
+  cursor: pointer;
+  width: 100%;
+  font-size: 18px;
+}
+
+.card button:hover {
+  opacity: 0.7;
+}
+
+.image3 {
+  border-radius: 10%;
+  width: 50%;
+  height: 30%;
+  padding: 5rem;
+  margin: 10px;
+}
+.image3 {
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+  max-width: 500px;
+  margin: auto;
+  text-align: center;
+  font-family: arial;
+  margin: 10px;
+}
+
+.price {
+  color: grey;
+  font-size: 22px;
+}
+
+.card button {
+  border: none;
+  outline: 0;
+  padding: 12px;
+  color: white;
+  background-color: #000;
+  text-align: center;
+  cursor: pointer;
+  width: 100%;
+  font-size: 18px;
+}
+
+.card button:hover {
+  opacity: 0.7;
+}
